@@ -1,51 +1,51 @@
- [
+[
   {
-    name: "iPhone 15 Pro",
-    sales: 5120,
-    trend: "up",
-    change: "+8%",
-    revenue: "$6,400,000",
+    "name": "iPhone 15 Pro",
+    "sales": 5120,
+    "trend": "up",
+    "change": "+8%",
+    "revenue": "$6,400,000"
   },
   {
-    name: "MacBook Air M3",
-    sales: 2780,
-    trend: "down",
-    change: "-5%",
-    revenue: "$4,300,000",
+    "name": "MacBook Air M3",
+    "sales": 2780,
+    "trend": "down",
+    "change": "-5%",
+    "revenue": "$4,300,000"
   },
   {
-    name: "iPad Mini",
-    sales: 1890,
-    trend: "up",
-    change: "+3%",
-    revenue: "$1,900,000",
+    "name": "iPad Mini",
+    "sales": 1890,
+    "trend": "up",
+    "change": "+3%",
+    "revenue": "$1,900,000"
   },
   {
-    name: "Apple Watch Ultra",
-    sales: 3240,
-    trend: "up",
-    change: "+6%",
-    revenue: "$2,800,000",
+    "name": "Apple Watch Ultra",
+    "sales": 3240,
+    "trend": "up",
+    "change": "+6%",
+    "revenue": "$2,800,000"
   },
   {
-    name: "AirPods Max",
-    sales: 950,
-    trend: "down",
-    change: "-2%",
-    revenue: "$720,000",
+    "name": "AirPods Max",
+    "sales": 950,
+    "trend": "down",
+    "change": "-2%",
+    "revenue": "$720,000"
   },
   {
-    name: "Magic Keyboard",
-    sales: 1340,
-    trend: "up",
-    change: "+4%",
-    revenue: "$560,000",
+    "name": "Magic Keyboard",
+    "sales": 1340,
+    "trend": "up",
+    "change": "+4%",
+    "revenue": "$560,000"
   },
   {
-    name: "HomePod Mini",
-    sales: 1670,
-    trend: "down",
-    change: "-1%",
-    revenue: "$890,000",
-  },
+    "name": "HomePod Mini",
+    "sales": 1670,
+    "trend": "down",
+    "change": "-1%",
+    "revenue": "$890,000"
+  }
 ]
